@@ -6,7 +6,6 @@
 06 undeniably    --不可否认地
 07 inquisitive   --好学的 
 
-
 01 engage        --吸引住
 02 despair       --绝望
 03 embrace       --拥抱 
@@ -17,4 +16,24 @@
 
 01 assure        --确保
 02 career        --职业
-03 curve         --曲线         
+03 curve         --曲线
+04 decent        --相当不错的
+05 boast         --吹嘘
+06 bond          --结合
+07 bind          --绑定
+
+01 blossom       --开花
+02 decade        --十年
+03 genuine       --真诚的
+04 sincere       --真诚的
+05 instinct      --直觉
+06 confident     --自信的
+07 secure        --安心的
+
+01 reduce        --减少
+02 stereotype    --刻板印象
+03 comprehend    --理解
+04 cultivate     --培育
+05 range         --一系列
+06 innocence     -- 天真
+07 curiosity     --好奇心
