@@ -1,0 +1,20 @@
+01 participate   --参加
+02 inspire       --激励
+03 incredible    --极好的/不可思议的
+04 departure     --离开 'n'
+05 depart        --离开 'verb'
+06 undeniably    --不可否认地
+07 inquisitive   --好学的 
+
+
+01 engage        --吸引住
+02 despair       --绝望
+03 embrace       --拥抱 
+04 stimulate     --激发
+05 intellectual  --智力的
+06 capacity      --容量 
+07 bound         --受约束
+
+01 assure        --确保
+02 career        --职业
+03 curve         --曲线         
