@@ -41,7 +41,7 @@
 01 amount        --数量
 02 flexibility   --灵活性
 03 approach      --临近
-04 enthusitically--热心的
+04 enthusiastically--热心的
 05 talent        --天赋
 06 evolve        --进化，逐步发展
 07 potential     --潜力
