@@ -4,7 +4,7 @@
 04 departure     --离开 'n'
 05 depart        --离开 'verb'
 06 undeniably    --不可否认地
-07 inquisitive   --好学的 
+07 inquisitive   --好奇的 
 
 01 engage        --吸引住
 02 despair       --绝望
@@ -33,7 +33,18 @@
 01 reduce        --减少
 02 stereotype    --刻板印象
 03 comprehend    --理解
-04 cultivate     --培育
+04 cultivate     --培养
 05 range         --一系列
 06 innocence     -- 天真
 07 curiosity     --好奇心
+
+01 amount        --数量
+02 flexibility   --灵活性
+03 approach      --临近
+04 enthusitically--热心的
+05 talent        --天赋
+06 evolve        --进化，逐步发展
+07 potential     --潜力
+
+01 bold          --大胆自信的
+02 enormously    --非常
