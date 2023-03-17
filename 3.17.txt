@@ -12,7 +12,7 @@
 04  blade           --刀片
 05  tube            --管子
 06  toochpaste      --牙膏
-07  polish          --擦亮
+07  polish          --擦亮剂
 
 01  nail            --指甲
 02  dump            --丢弃
