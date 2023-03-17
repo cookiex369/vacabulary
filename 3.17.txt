@@ -1,0 +1,37 @@
+01  clutter         --杂乱的东西
+02  await           --等待
+03  vehicle         --车辆
+04  practical       --合适的
+05  efficiency      --效率
+06  mess            --肮脏
+07  embarrassment   --尴尬
+
+01  damp            --潮湿的
+02  towel           --毛巾
+03  rusted          --生锈的
+04  blade           --刀片
+05  tube            --管子
+06  toochpaste      --牙膏
+07  polish          --擦亮
+
+01  nail            --指甲
+02  dump            --丢弃
+03  drawer          --抽屉
+04  sweep           --打扫
+05  sink            --水槽
+06  nest            --整齐的
+07  mismatched      --配错的
+
+01  sock            --短袜
+02  closet          --壁橱
+03  fill            --充满
+04  admire          --欣赏
+05  comic           --可笑的
+06  fiction         --小说
+07  novel           --小说(长篇)
+
+01  lifetime        --一生
+02  beloved         --钟爱的
+03  stuff           --塞进
+04  sack            --一袋(的量)
+05  stack           --使整齐的一堆

@@ -19,7 +19,7 @@
 03 curve         --曲线
 04 decent        --相当不错的
 05 boast         --吹嘘
-06 bond          --结合
+06 bond          --结合/联系
 07 bind          --绑定
 
 01 blossom       --开花
@@ -48,3 +48,4 @@
 
 01 bold          --大胆自信的
 02 enormously    --非常
+03 deny          --否认
