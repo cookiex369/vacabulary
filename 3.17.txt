@@ -68,4 +68,4 @@
 04  bug             --虫子
 05  reverse         --彻底改变
 06  basement        --地下室
-07  token           --标志/令牌
+07  token           --像征/令牌
