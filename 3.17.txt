@@ -35,3 +35,37 @@
 03  stuff           --塞进
 04  sack            --一袋(的量)
 05  stack           --使整齐的一堆
+06  worn            --穿
+07  plague          --灾害；瘟疫
+
+01  locust          --蝗虫
+02  pile            --一堆/堆放
+03  clumsy          --难处理的
+04  charity         --慈善事业/施舍
+05  stuffed animal  --填充玩具
+06  band            --乐队/箍
+07  curl-er          --卷发夹子
+
+01  strain          --紧张/压力
+02  haul            --拖/拉
+03  curb            --路缘
+04  sweat           --流汗/出汗
+05  sore            --疼痛
+06  ridiculous      --荒唐的
+07  comforter       --被子
+
+01  sheet           --床单
+02  toss            --仍/抛
+03  strip           --除去/撕掉
+04  blanket         --毛毯
+05  pillow          --枕头
+06  feed            --将...放进机器
+07  craft           --工艺/飞行器
+
+01  envelope        --信封/封皮
+02  clip            --别针/剪下
+03  emotional       --情绪激动的
+04  bug             --虫子
+05  reverse         --彻底改变
+06  basement        --地下室
+07  token           --标志/令牌
