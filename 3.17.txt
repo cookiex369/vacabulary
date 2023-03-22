@@ -4,7 +4,7 @@
 04  practical       --合适的
 05  efficiency      --效率
 06  mess            --肮脏
-07  embarrassment   --尴尬
+07  embarrassment   --尴尬/使人难堪的
 
 01  damp            --潮湿的
 02  towel           --毛巾
@@ -26,7 +26,7 @@
 02  closet          --壁橱
 03  fill            --充满
 04  admire          --欣赏
-05  comic           --可笑的
+05  comic           --可笑的/连环漫画
 06  fiction         --小说
 07  novel           --小说(长篇)
 
@@ -57,7 +57,7 @@
 01  sheet           --床单
 02  toss            --仍/抛
 03  strip           --除去/撕掉
-04  blanket         --毛毯
+04  blanket         --毛毯 <===*===>
 05  pillow          --枕头
 06  feed            --将...放进机器
 07  craft           --工艺/飞行器
@@ -65,10 +65,12 @@
 01  envelope        --信封/封皮
 02  clip            --别针/剪下
 03  emotional       --情绪激动的
-04  bug             --虫子
+04  bug             --虫子/收藏迷
 05  reverse         --彻底改变
 06  basement        --地下室
 07  token           --像征/令牌
 
 01  strain          --绷紧
 02  essay           --短文
+03  teen            --青少年的
+04  trunk           --后备箱
