@@ -1,0 +1,81 @@
+01      nods                --点头
+02      wheelchair          --轮椅
+03      whispter            --低语
+04      sense               --意义
+05      limp                --虚弱
+06      surge               --涌动
+07      breeze              --微风
+
+01      shiver              --发抖、哆嗦
+02      complain            --抱怨
+03      chilly              --寒冷的、凉的
+04      harbor              --港口
+05      glove               --手套
+06      stride              --大步、步幅
+07      melt                --融化
+
+01      shed                --工棚、库房
+02      immense             --巨大的
+03      fatigue             --疲劳、疲乏
+04      aboard              --上船
+05      pace                --步伐、速度
+06      diner               --餐馆
+07      hut                 --小屋
+
+01      barrel              --桶
+02      shellfish           --贝类
+03      bundle              --捆、束
+04      eel                 --鳗鱼、鳝鱼
+05      portion             --一部分
+06      smelly              --臭的
+07      migration           --迁移
+
+01      wrap                --包、包装
+02      pocket              --口袋
+03      slice               --切、切片
+04      suspicious          --怀疑、不信任的
+05      pinch               --戳(一戳)
+06      smoky               --烟熏味
+07      heat                --加热
+
+01      steaming            --热气腾腾的
+02      vanish              --消失
+03      forgive             --原谅
+04      supper              --晚餐
+05      slope               --斜坡
+06      seaweed             --海藻
+07      cracker             --饼干
+
+01      peak                --山顶、山峰
+02      stretch             --伸展、拉伸
+03      waterway            --水路
+04      overtake            --超过
+05      rot                 --腐烂
+06      nursing             --护理
+07      anticipate          --预见、预期
+
+01      reluctance          --不情愿
+02      strength            --强度
+03      stoop               --弯腰
+04      restraint           --约束
+05      fold                --折叠
+06      scrape              --划破、刮
+07      delicate            --细腻的、精致的
+
+01      grip                --握
+02      gradually           --逐渐
+03      unsteadily          --摇摇晃晃的
+04      sway                --摇晃
+05      accompany           --陪伴
+06      pureed              --泥状
+07      tuna                --金枪鱼
+
+01      heap                --堆
+02      polite              --礼貌
+03      awkward             --尴尬
+04      silvery             --银色
+05      flesh               --肉
+06      sip                 --嘬
+07      champagne           --香槟
+
+01      
