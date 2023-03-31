@@ -78,4 +78,16 @@
 06      sip                 --嘬
 07      champagne           --香槟
 
-01      
+01      swiss               --瑞士
+02      beam                --高兴的微笑
+03      steady              --稳定的
+
+phrasses and expressions
+
+01  make sense           --有意义
+02  lay sth. out         --展开、铺开
+03  hang up              --挂起(衣服)、挂断(电话)
+04  be supposed to do sth.  --应该做某事
+05  not that ... but (that) --不是...而是
+06  once in a while         --有时(sometimes)
+07  the small of one's back --后腰
