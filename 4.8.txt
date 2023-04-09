@@ -1,0 +1,29 @@
+01      fleet               --舰队
+02      typical             --典型
+03      instant             --瞬间
+04      electron            --电子
+05      spot                --点头
+06      boundless           --无限
+07      dialect             --方言、土话
+
+01      analyze             --分析
+02      device              --装置、设备
+03      sophisticated       --见多识广的人
+04      fuel                --燃料
+05      indispensable       --不可或缺的
+06      review              --检查
+07      lecture             --讲课、演讲
+
+01      outline             --轮廓、大纲
+02      regulate            --控制、调节
+03      bubble              --气泡
+04      budget              --预算
+05      estimate            --预估
+06      assignment          --作业、任务
+07      balance             --余额
+
+01      highway             --公路
+02      inferiority         --低等、自卑
+03      complex             --复杂的
+04      compencate          --赔偿
+05      
