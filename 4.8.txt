@@ -48,4 +48,13 @@
 07      fever               --狂热
 
 01      pitch               --强度/高度
-02      
+02      keep up             --保持/不落后
+03      loaner              --代替品/债权人
+04      meantime            --在此期间
+05      intelligent         --聪明的/智能的
+
+
+phrases and expressions
+
+01      less than interesting/honest/helpful,etc.       --一点也没意思/不诚实，etc。
+02      in large part           --多半/在很大程度上
