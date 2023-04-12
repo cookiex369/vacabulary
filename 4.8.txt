@@ -1,6 +1,6 @@
 01      fleet               --舰队
 02      typical             --典型
-03      instant             --瞬间
+03      instant             --瞬间/即时
 04      electron            --电子
 05      spot                --点头
 06      boundless           --无限
@@ -8,14 +8,14 @@
 
 01      analyze             --分析
 02      device              --装置、设备
-03      sophisticated       --见多识广的人
+03      sophisticated       --见多识广的人  <===*发音*===>
 04      fuel                --燃料
 05      indispensable       --不可或缺的
 06      review              --检查
 07      lecture             --讲课、演讲
 
 01      outline             --轮廓、大纲
-02      regulate            --控制、调节
+02      regulate            --控制
 03      bubble              --气泡
 04      budget              --预算
 05      estimate            --预估
@@ -23,7 +23,29 @@
 07      balance             --余额
 
 01      highway             --公路
-02      inferiority         --低等、自卑
-03      complex             --复杂的
+02      inferiority         --低等、自卑    <===*发音*===>
+03      complex             --复杂的/情结
+        inferiority complex 自卑情结<===*===>
 04      compencate          --赔偿
-05      
+05      frontier            --前沿(技术)
+06      transform           --转换/转变
+07      connectivity        --连通
+
+01      tied                --连结/绑定
+02      spot                --地点
+03      script              --剧本
+04      tape                --录像
+05      instrument          --工具
+06      virtually           --几乎
+07      wonder              --好奇
+
+01      wire                --装电线
+02      fire off            --发射/发送
+03      lease               --租用
+04      focus               --重点/目的
+05      competitive         --竞争的
+06      peer                --同龄人/同等地位的
+07      fever               --狂热
+
+01      pitch               --强度/高度
+02      
